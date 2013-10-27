@@ -1,0 +1,28 @@
+{
+  "name": "ziggy-albert",
+  "version": "0.0.0",
+  "description": "albert plugin for ziggy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jarofghosts/ziggy-albert.git"
+  },
+  "keywords": [
+    "irc",
+    "bot",
+    "plugin",
+    "highlight",
+    "log"
+  ],
+  "author": "jesse keane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jarofghosts/ziggy-albert/issues"
+  },
+  "dependencies": {
+    "internet-timestamp": "0.0.1"
+  }
+}
